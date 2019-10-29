@@ -1,0 +1,180 @@
+_______________________________
+Ranking: 1
+Classifier and Parameters
+ SVC:
+ C=1,kernel='poly',tol=0.001,gamma='auto'
+    Mean Accuracy: 0.7468
+_______________________________
+Ranking: 2
+Classifier and Parameters
+ SVC:
+ C=1,kernel='poly',tol=0.1,gamma='auto'
+    Mean Accuracy: 0.7464
+_______________________________
+Ranking: 3
+Classifier and Parameters
+ SVC:
+ C=5,kernel='poly',tol=0.1,gamma='auto'
+    Mean Accuracy: 0.744
+_______________________________
+Ranking: 4
+Classifier and Parameters
+ SVC:
+ C=5,kernel='poly',tol=0.001,gamma='auto'
+    Mean Accuracy: 0.7436
+_______________________________
+Ranking: 5
+Classifier and Parameters
+ SVC:
+ C=5,kernel='linear',tol=0.001,gamma='auto'
+    Mean Accuracy: 0.7292
+_______________________________
+Ranking: 6
+Classifier and Parameters
+ SVC:
+ C=10,kernel='linear',tol=0.1,gamma='auto'
+    Mean Accuracy: 0.7292
+_______________________________
+Ranking: 7
+Classifier and Parameters
+ SVC:
+ C=1,kernel='linear',tol=0.001,gamma='auto'
+    Mean Accuracy: 0.7292
+_______________________________
+Ranking: 8
+Classifier and Parameters
+ SVC:
+ C=1,kernel='linear',tol=0.1,gamma='auto'
+    Mean Accuracy: 0.7292
+_______________________________
+Ranking: 9
+Classifier and Parameters
+ SVC:
+ C=10,kernel='linear',tol=0.001,gamma='auto'
+    Mean Accuracy: 0.7292
+_______________________________
+Ranking: 10
+Classifier and Parameters
+ SVC:
+ C=5,kernel='linear',tol=0.1,gamma='auto'
+    Mean Accuracy: 0.7292
+_______________________________
+Ranking: 11
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=7,algorithm='kd_tree',leaf_size=50
+    Mean Accuracy: 0.7120000000000001
+_______________________________
+Ranking: 12
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=7,algorithm='ball_tree',leaf_size=50
+    Mean Accuracy: 0.7120000000000001
+_______________________________
+Ranking: 13
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=7,algorithm='kd_tree',leaf_size=30
+    Mean Accuracy: 0.7120000000000001
+_______________________________
+Ranking: 14
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=7,algorithm='kd_tree',leaf_size=20
+    Mean Accuracy: 0.7120000000000001
+_______________________________
+Ranking: 15
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=7,algorithm='ball_tree',leaf_size=20
+    Mean Accuracy: 0.7120000000000001
+_______________________________
+Ranking: 16
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=7,algorithm='kd_tree',leaf_size=80
+    Mean Accuracy: 0.7120000000000001
+_______________________________
+Ranking: 17
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=7,algorithm='ball_tree',leaf_size=80
+    Mean Accuracy: 0.7120000000000001
+_______________________________
+Ranking: 18
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=7,algorithm='ball_tree',leaf_size=30
+    Mean Accuracy: 0.7120000000000001
+_______________________________
+Ranking: 19
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=5,algorithm='ball_tree',leaf_size=50
+    Mean Accuracy: 0.7082
+_______________________________
+Ranking: 20
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=5,algorithm='kd_tree',leaf_size=30
+    Mean Accuracy: 0.7082
+_______________________________
+Ranking: 21
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=5,algorithm='ball_tree',leaf_size=30
+    Mean Accuracy: 0.7082
+_______________________________
+Ranking: 22
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=5,algorithm='kd_tree',leaf_size=80
+    Mean Accuracy: 0.7082
+_______________________________
+Ranking: 23
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=5,algorithm='kd_tree',leaf_size=50
+    Mean Accuracy: 0.7082
+_______________________________
+Ranking: 24
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=5,algorithm='ball_tree',leaf_size=20
+    Mean Accuracy: 0.7082
+_______________________________
+Ranking: 25
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=5,algorithm='kd_tree',leaf_size=20
+    Mean Accuracy: 0.7082
+_______________________________
+Ranking: 26
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=5,algorithm='ball_tree',leaf_size=80
+    Mean Accuracy: 0.7082
+_______________________________
+Ranking: 27
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=9,algorithm='kd_tree',leaf_size=80
+    Mean Accuracy: 0.7043999999999999
+_______________________________
+Ranking: 28
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=9,algorithm='ball_tree',leaf_size=30
+    Mean Accuracy: 0.7043999999999999
+_______________________________
+Ranking: 29
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=9,algorithm='kd_tree',leaf_size=50
+    Mean Accuracy: 0.7043999999999999
+_______________________________
+Ranking: 30
+Classifier and Parameters
+ KNeighborsClassifier:
+ n_neighbors=9,algorithm='ball_tree',leaf_size=80
+    Mean Accuracy: 0.7043999999999999
